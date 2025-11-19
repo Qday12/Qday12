@@ -1,3 +1,4 @@
+
 # Hi, I'm Paweł 👋
 
 <div align="center">
@@ -9,16 +10,16 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-000000)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 
-</div> 👋
+</div> 
 
-### 🚀 DevOps & Cloud Engineer
+## 🚀 DevOps & Cloud Engineer
 
 Highly technical DevOps engineer with strong experience in **Linux systems, containerization, orchestration, automation, and cloud infrastructure**. I design and build scalable, observable, and secure platforms using modern DevOps tooling and best practices.
 
 ---
 
 
-## 🧰 Technologies & Tools
+### 🧰 Technologies & Tools
 
 **Languages:** Bash, Python, C++
 
